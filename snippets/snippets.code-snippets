@@ -1,0 +1,7 @@
+{
+  "Middleware snippet": {
+    "prefix": "!amogh",
+    "body": ["app.use(\"${1:dir}\",(req,res,next)=>{", "})"],
+    "description": "app.use middleare snippet"
+  }
+}
