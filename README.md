@@ -1,4 +1,4 @@
-# nodejs-snippets README
+# backendsnippets README
 
 A VS-Code extension for different snippets related to Nodejs,Expressjs,Mongoose etc
 
